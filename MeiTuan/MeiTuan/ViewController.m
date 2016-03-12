@@ -17,14 +17,14 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+     NSLog(@"%@==>  我是张三 我排名第二2222",[self class]);
+     NSLog(@"%@==>  开发一个zzzzzz 1.0",[self class]);
+     NSLog(@"%@==>  感觉不错,现在开始搞起",[self class]);
     
-     NSLog(@"%@==>  我是ls  第一次操作",[self class]);
-     NSLog(@"%@==>  今天的任务不错,挺好完成",[self class]);
-     NSLog(@"%@==>  game  任务完成 我是zs",[self class]);
+     NSLog(@"%@==>  张三完成任务",[self class]);
     
-     NSLog(@"%@==>  ls去旅游下",[self class]);
-     NSLog(@"%@==>  旅游回来了",[self class]);
     
+     NSLog(@"%@==>  这个问怎么办,张三",[self class]);
 }
 
 - (void)didReceiveMemoryWarning {
