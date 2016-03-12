@@ -22,6 +22,9 @@
      NSLog(@"%@==>  感觉不错,现在开始搞起",[self class]);
     
      NSLog(@"%@==>  张三完成任务",[self class]);
+    
+    
+     NSLog(@"%@==>  这个问怎么办,张三",[self class]);
 }
 
 - (void)didReceiveMemoryWarning {
