@@ -23,6 +23,7 @@
      NSLog(@"%@==>  game  任务完成 我是zs",[self class]);
     
      NSLog(@"%@==>  ls去旅游下",[self class]);
+     NSLog(@"%@==>  旅游回来了",[self class]);
     
 }
 
