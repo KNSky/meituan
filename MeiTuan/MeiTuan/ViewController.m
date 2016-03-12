@@ -25,6 +25,7 @@
     
     
      NSLog(@"%@==>  这个问怎么办,张三",[self class]);
+     NSLog(@"%@==>  我是张三,三,三,三",[self class]);
 }
 
 - (void)didReceiveMemoryWarning {
