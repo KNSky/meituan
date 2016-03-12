@@ -28,6 +28,9 @@
     
     
      NSLog(@"%@==>  我是李四 111111",[self class]);
+
+     NSLog(@"%@==>  我是张三,三,三,三",[self class]);
+
 }
 
 - (void)didReceiveMemoryWarning {
